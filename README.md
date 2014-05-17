@@ -19,4 +19,4 @@ cd xcode-tools && chmod 744 bump_build_number.sh
 ${PROJECT_DIR}/xcode-tools/bump_build_number.sh ${INFOPLIST_FILE}
 ```
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Increment Build Number")
+![alt text](https://github.com/jaminguy/xcode-tools/blob/master/XCode_RunScript_Screenshot.png?raw=true "Increment Build Number")
