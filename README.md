@@ -15,4 +15,6 @@ git submodule add https://github.com/jaminguy/xcode-bump-build-number.git
 ${PROJECT_DIR}/xcode-bump-build-number/bump_build_number.sh ${INFOPLIST_FILE}
 ```
 
+If you want to bump the build number only when Archiving then check the box labeled "Run script only when installing"
+
 ![alt text](https://github.com/jaminguy/xcode-tools/blob/master/XCode_RunScript_Screenshot.png?raw=true "Increment Build Number")
