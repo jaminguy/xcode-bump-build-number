@@ -6,9 +6,9 @@
 # build, but only if the project has changed since last increment
 #
 # Add this as a Run Script in XCode. You will need to make sure that this script
-# is located in a /xcode-tools directory in your project root folder.
+# is located in a /xcode-bump-build-number directory in your project root folder.
 #
-# ${PROJECT_DIR}/xcode-tools/bump_build_number.sh ${INFOPLIST_FILE}
+# ${PROJECT_DIR}/xcode-bump-build-number/bump_build_number.sh ${INFOPLIST_FILE}
 #
 #########
 
